@@ -36,7 +36,7 @@ export function Component() {
             </Link>
             <Link
               className="text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-50"
-              href="contact">
+              href="https://wvkyrxpe4wa.typeform.com/to/okxQO1fu">
               Contact
             </Link>
           </nav>
@@ -65,7 +65,7 @@ export function Component() {
             </Link>
             <Link
               className="inline-flex h-9 items-center justify-center rounded-md border border-gray-200 bg-white shadow-sm text-sm font-medium transition-colors hover:bg-gray-100 hover:text-gray-900 dark:border-gray-800 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:border-gray-800"
-              href="contact">
+              href="https://wvkyrxpe4wa.typeform.com/to/okxQO1fu">
               Contact Us
             </Link>
           </div>
@@ -232,27 +232,7 @@ export function Component() {
           </div>
         </div>
       </section>
-      <section id="contact" className="bg-gray-100 py-12 md:py-24 lg:py-32">
-        <div
-          className="container grid items-center justify-center gap-4 px-4 text-center md:px-6">
-          <div className="space-y-3">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Contact Us</h2>
-            <p
-              className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-              Ready to take the next step? Reach out to us for more information or to schedule an appointment.
-            </p>
-          </div>
-          <div className="mx-auto max-w-[400px] space-y-4">
-            <div className="grid grid-cols-2 gap-4">
-              <Input placeholder="First Name" />
-              <Input placeholder="Last Name" />
-            </div>
-            <Input placeholder="Email" type="email" />
-            <Input as="textarea" className="h-[200px]" placeholder="Message" />
-            <Button>Submit</Button>
-          </div>
-        </div>
-      </section>
+     
       <footer className="border-t border-gray-200 dark:border-gray-800">
         <div
           className="container grid items-center justify-center gap-4 px-4 py-12 text-center md:grid-cols-3 md:px-6 md:py-16 lg:grid-cols-3 lg:gap-8 lg:py-24 xl:grid-cols-3 xl:gap-10 xl:py-32">
@@ -269,8 +249,8 @@ export function Component() {
           </div>
           <div className="space-y-2">
             <Link
-              className="inline-flex h-9 items-center justify-center rounded-md border border-gray-200 bg-white shadow-sm text-sm font-medium transition-colors hover:bg-gray-100 hover:text-gray-900 dark:border-gray-800 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:border-gray-800"
-              href="#">
+              className="inline-flex h-9 items-center justify-center   shadow-sm text-sm font-medium transition-colors hover:bg-gray-100 hover:text-gray-900 dark:border-gray-800 dark:bg-gray-950 dark:hover:bg-gray-800 dark:hover:text-gray-50 dark:border-gray-800"
+              href="https://wvkyrxpe4wa.typeform.com/to/okxQO1fu">
               Contact Us
             </Link>
           </div>
